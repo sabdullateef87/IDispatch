@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/abdullateef-suleiman.iml" filepath="$PROJECT_DIR$/.idea/abdullateef-suleiman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/droneservice/droneservice.iml" filepath="$PROJECT_DIR$/droneservice/droneservice.iml" />
+    </modules>
+  </component>
+</project>
